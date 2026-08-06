@@ -30,7 +30,7 @@ Aspiring Software Engineer committed to building efficient, scalable, and mainta
 ## 📫 Reach me at:
 
 - 📧 **Email:** anmolkhandelwal962@gmail.com
-- 💼 **LinkedIn:** www.linkedin.com/in/anmol-khandelwal-2a9b0b31b
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/anmol-khandelwal-b871542a6/]
 
 ---
 
