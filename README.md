@@ -1,49 +1,38 @@
 # 💫 About Me
 
-Hi, I'm **Anmol Khandelwal**.
+Hi, I'm **Anmol Khandelwal**, a Final Year Computer Science student passionate about building scalable software, solving real-world problems, and continuously learning modern technologies.
 
-I'm a Final Year Computer Science student passionate about building scalable software and solving real-world problems through technology. I enjoy developing full-stack applications, exploring backend architecture, and continuously improving my problem-solving skills.
+## 🚀 Current Focus
 
-## 🚀 What I'm Working On
+- 🔭 Building Full Stack Web Applications using the **MERN Stack**
+- 🌱 Learning **System Design**, **Backend Development**, **Cloud Computing**, and **DevOps**
+- 💻 Strengthening problem-solving skills through **Data Structures & Algorithms (C++)**
 
-- Full Stack Web Development (MERN)
+## 🛠️ Tech Stack
+
+- **Languages:** C++, JavaScript, SQL
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 🤝 Open to Collaborate
+
+- Open Source Projects
+- Full Stack Web Applications
 - Backend Development
-- Personal & Open Source Projects
-
-## 🌱 Currently Learning
-
-- System Design
-- DevOps
-- Cloud Computing
-- Software Architecture
-
-## 💻 Core Skills
-
-- C++
-- Data Structures & Algorithms
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Git & GitHub
-
-## 🤝 Looking to Collaborate
-
-- Open Source Contributions
-- Full Stack Projects
-- Backend Systems
 - Software Engineering Projects
 
 ## 🎯 Career Objective
 
-Aspiring Software Engineer focused on building efficient, scalable, and maintainable software solutions while continuously learning modern technologies.
+Aspiring Software Engineer committed to building efficient, scalable, and maintainable software while continuously improving technical expertise and contributing to impactful projects.
 
-## 📫 Contact
+## 📫 Reach me at:
 
-📧 **anmolkhandelwal962@gmail.com**ebugging them 😄
+- 📧 **Email:** anmolkhandelwal962@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/anmol-khandelwal-2a9b0b31b
 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_oye_ak_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anmol-khandelwal-b871542a6/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolkhandelwal962@gmail.com) 
