@@ -1,5 +1,48 @@
-# 💫 About Me:
-👋 Hi, I'm Anmol Khandelwal<br><br>💻 Final Year Computer Science Student<br>🌱 Passionate about Software Development and Problem Solving<br><br>🚀 About Me<br><br>🔭 I’m currently working on Full Stack Development (MERN)<br><br>🌱 I’m currently learning<br>- System Design<br>- Backend Development<br>- DevOps Basics<br>- Cloud Computing<br><br>💻 I solve Data Structures & Algorithms in C++<br><br>📚 Currently preparing for Software Engineer roles.<br><br>🤝 I’m looking to collaborate on<br>- Open Source Projects<br>- Full Stack Applications<br>- Backend Systems<br><br>📫 Reach me at:<br>anmolkhandelwal962@gmail.com<br><br>⚡ Fun Fact:<br>I enjoy solving coding problems more than debugging them 😄
+# 💫 About Me
+
+Hi, I'm **Anmol Khandelwal**.
+
+I'm a Final Year Computer Science student passionate about building scalable software and solving real-world problems through technology. I enjoy developing full-stack applications, exploring backend architecture, and continuously improving my problem-solving skills.
+
+## 🚀 What I'm Working On
+
+- Full Stack Web Development (MERN)
+- Backend Development
+- Personal & Open Source Projects
+
+## 🌱 Currently Learning
+
+- System Design
+- DevOps
+- Cloud Computing
+- Software Architecture
+
+## 💻 Core Skills
+
+- C++
+- Data Structures & Algorithms
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Git & GitHub
+
+## 🤝 Looking to Collaborate
+
+- Open Source Contributions
+- Full Stack Projects
+- Backend Systems
+- Software Engineering Projects
+
+## 🎯 Career Objective
+
+Aspiring Software Engineer focused on building efficient, scalable, and maintainable software solutions while continuously learning modern technologies.
+
+## 📫 Contact
+
+📧 **anmolkhandelwal962@gmail.com**ebugging them 😄
 
 
 ## 🌐 Socials:
